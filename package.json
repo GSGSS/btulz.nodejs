@@ -1,0 +1,29 @@
+{
+  "name": "btulz",
+  "version": "0.1.0",
+  "description": "tools suit including types creater.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/color-coding/btulz.nodejs.git"
+  },
+  "keywords": [
+    "btulz",
+    "openui5",
+    "sapui5",
+    "ui5"
+  ],
+  "author": "niuren.zhu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/color-coding/btulz.nodejs/issues"
+  },
+  "homepage": "https://github.com/color-coding/btulz.nodejs#readme",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}
